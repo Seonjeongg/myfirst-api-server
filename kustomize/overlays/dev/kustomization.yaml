@@ -19,4 +19,4 @@ patches:
 images:
 - name: skala-registry.skala-ai.com/class-7/sk213-webserver
   newName: skala-registry.skala-ai.com/class-7/sk213-webserver
-  newTag: "2.0"
+  newTag: 2.0.kaniko
